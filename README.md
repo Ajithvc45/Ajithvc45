@@ -1,12 +1,12 @@
 <h1> Hi, 👋 I’m Ajith V C</h1>
 <h3>MEAN stack developer </h3>
 <ul>
-  <li>📫 How to reach me ajithvc45@gmail.com</li>
+  <li>📫 How to reach me <a href="#">ajithvc45@gmail.com</a></li>
 </ul>
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ajithvc45@gmail.com
+<!-- - 👀 I’m interested in coding -->
+<!-- - 🌱 I’m currently learning Node.js -->
+<!-- - 💞️ I’m looking to collaborate on ... -->
+<!-- - 📫 How to reach me ajithvc45@gmail.com -->
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hey%20Friends&fontSize=90" />
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
