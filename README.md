@@ -1,4 +1,8 @@
-<h1> Hi, 👋 I’m Ajith V C</h1?
+<h1> Hi, 👋 I’m Ajith V C</h1>
+<h3>MEAN stack developer </h3>
+<ul>
+  <li>📫 How to reach me ajithvc45@gmail.com</li>
+</ul>
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on ...
