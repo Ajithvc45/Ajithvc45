@@ -1,7 +1,7 @@
 <h1> Hi, 👋 I’m Ajith V C</h1>
 <h3>MEAN stack developer </h3>
 <ul>
-  <li>📫 How to reach me <a href="#">ajithvc45@gmail.com</a></li>
+  <li>📫 How to reach me <a href="mailto: ajithvc45@gmail.com">ajithvc45@gmail.com</a></li>
 </ul>
 <!-- - 👀 I’m interested in coding -->
 <!-- - 🌱 I’m currently learning Node.js -->
